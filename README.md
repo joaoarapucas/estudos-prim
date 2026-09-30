@@ -6,6 +6,9 @@ recomendo seguir na ordem que estiver abaixo
 ## arquivos
 
 1. `cover_face.py`: coloca uma imagem na frente do rosto. Mostra o básico de como lidar com vídeo e como colocar uma imagem dentro da outra (com o numpy!)
+![cover_face](./assets/cover_rosto_result.png)
+
+2. chroma key (em andamento.......)
 
 
 ## como rodar
@@ -24,4 +27,9 @@ pip install numpy opencv-python
 no Mac
 ```
 pip3 install numpy opencv-python
+```
+
+depois só rodar um 
+```
+python *nome do exercicio*
 ```
